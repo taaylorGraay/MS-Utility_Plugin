@@ -29,11 +29,11 @@ In terms of help with the coding users will file a lot of help from JUCE tutoria
 https://shop.juce.com/get-juce
 
 For help with this plugin in particular and it's features, bearing in mind that it's programmers programming knowledge is still at a primitive level, contact:
-TGRAY200@caledonian.ac.uk
+taaylorgraay@gmail.com
 
 ## Who maintains and contributes to the project?
 
-This project has been maintained and contributed to by Taylor Gray, student at Glasgow Caledonian University.
+This project has been maintained and contributed to by Taylor Gray.
 
 ## Appendices
 
